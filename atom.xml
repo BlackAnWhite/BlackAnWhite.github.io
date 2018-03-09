@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>方静的个人博客</title>
+  
+  <subtitle>心有猛虎，细嗅蔷薇</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-08T10:57:46.766Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>黑&amp;白</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://yoursite.com/2018/03/08/first-article/"/>
+    <id>http://yoursite.com/2018/03/08/first-article/</id>
+    <published>2018-03-08T10:54:45.000Z</published>
+    <updated>2018-03-08T10:57:46.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;说点什么呢&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/03/08/hello-world/"/>
+    <id>http://yoursite.com/2018/03/08/hello-world/</id>
+    <published>2018-03-08T10:29:22.278Z</published>
+    <updated>2018-03-08T10:29:22.278Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
