@@ -3,9 +3,29 @@
   
     
     <entry>
+      <title>hexo 常用指令</title>
+      <link href="/2018/03/09/hexo-command/"/>
+      <content type="html"><![CDATA[<p>学完之后过不多久就该忘了，还是在这里记下来方便以后查找</p><a id="more"></a><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p>  npm install hexo -g   #安装<br>  npm update hexo -g    #升级<br>  hexo init             #初始化</p><h2 id="简写"><a href="#简写" class="headerlink" title="简写"></a>简写</h2><p>hexo n “文件名” == hexo new “文件名” #新建文章<br>hexo g == hexo generate              #生成<br>hexo s == hexo server                #启动本地服务预览<br>hexo d == hexo deploy                #部署</p><h2 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h2><p>hexo server -p 5000            #更改端口<br>hexo server -i 192.168.1.1     #自定义 IP<br>hexo clean                     #清除缓存 网页正常情况下可以忽略此条命令<br>hexo g                         #生成静态网页<br>hexo d                         #开始部署</p><h2 id="摘要分割"><a href="#摘要分割" class="headerlink" title="摘要分割"></a>摘要分割</h2><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- more --&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 常用指令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>利用hexo和github搭建自己的私人博客</title>
       <link href="/2018/03/08/first-article/"/>
-      <content type="html"><![CDATA[<p>想搭建自己的博客已经很久了，前段时间一个面试官问我，工作了也两三年了，有没有自己总结一下，写点什么…忽然才想起来，自己一直匆匆赶路，从没有停下来好好想过，昨天正好看到一片文章分享的通过hexo 和 github 搭建自己的博客 ， 看起来挺简单的 ，于是…说没时间都是借口。</p><a id="more"></a><p>忙了一天终于把这个博客搭好了，各项配置也都配置的差不多了，以后要多写写东西了，不能总拿没时间当借口吧！<br>实践还是解决问题的唯一途径啊，本以为最少也要十天半个月呢，没想到这么快完成了，不但省了一大笔购买服务器的费用，甚至连域名的费用都省了，真是一举多得</p>]]></content>
+      <content type="html"><![CDATA[<p>想搭建自己的博客已经很久了，前段时间一个面试官问我，工作了也两三年了，有没有自己总结一下，写点什么…忽然才想起来，自己一直匆匆赶路，从没有停下来好好想过，昨天正好看到一片文章分享的通过hexo 和 github 搭建自己的博客 ， 看起来挺简单的 ，于是…说没时间都是借口。</p><a id="more"></a><p>忙了一天终于把这个博客搭好了，各项配置也都配置的差不多了，以后要多写写东西了，不能总拿没时间当借口吧！<br>实践还是解决问题的唯一途径啊，本以为最少也要十天半个月呢，没想到这么快完成了，不但省了一大笔购买服务器的费用，甚至连域名的费用都省了，真是一举多得</p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="noopener">参考一</a>{:target=”_blank”}<br><a href="https://www.jianshu.com/p/502765617b74" target="_blank" rel="noopener">参考二</a>{:target=”_blank”}<br><a href="https://github.com/MOxFIVE/hexo-theme-yelee" target="_blank" rel="noopener">yelee主题设置</a>{:target=”_blank”} </p>]]></content>
       
       <categories>
           
