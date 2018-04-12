@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blackanwhite.github.io/"/>
-  <updated>2018-03-09T09:23:54.533Z</updated>
+  <updated>2018-04-12T08:05:30.893Z</updated>
   <id>https://blackanwhite.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我（我们）正在向着什么方向发展...</title>
+    <link href="https://blackanwhite.github.io/2018/04/10/20180410-mood/"/>
+    <id>https://blackanwhite.github.io/2018/04/10/20180410-mood/</id>
+    <published>2018-04-10T09:21:06.000Z</published>
+    <updated>2018-04-12T08:05:30.893Z</updated>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;不知不觉距离博客搭建好已经一个月了，一个月以来再也没管过它...果然当初搭起来还是只是一时兴起，惰性越来越大了。
+评论功能似乎只能允许加载危险模块才能出来，不知道为什么会被浏览器认定为危险模块
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="心情" scheme="https://blackanwhite.github.io/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="心情" scheme="https://blackanwhite.github.io/tags/%E5%BF%83%E6%83%85/"/>
+    
+      <category term="随笔" scheme="https://blackanwhite.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo 常用指令</title>
