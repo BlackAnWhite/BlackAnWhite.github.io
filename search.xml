@@ -3,6 +3,28 @@
   
     
     <entry>
+      <title>怎么会这么巧</title>
+      <link href="/2018/05/10/May/"/>
+      <content type="html"><![CDATA[<pre><code>就是这么的巧！</code></pre><a id="more"></a><pre><code>今天不知道为什么，就打开了这个博客，一看时间，好巧啊，距离上次写文章正好一个月。本来没打算写东西的，似乎冥冥之中有一个声音在说...谁特么知道说啥，管他说什么呢，我就随便写点什么吧好像也没什么想写的...</code></pre>]]></content>
+      
+      <categories>
+          
+          <category> 心情 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 心情 </tag>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>我（我们）正在向着什么方向发展...</title>
       <link href="/2018/04/10/20180410-mood/"/>
       <content type="html"><![CDATA[<p>不知不觉距离博客搭建好已经一个月了，一个月以来再也没管过它…果然当初搭起来还是只是一时兴起，惰性越来越大了。<br>评论功能似乎只能允许加载危险模块才能出来，不知道为什么会被浏览器认定为危险模块</p><a id="more"></a><p>不知何时起，手机占用我越来越多的时间，吃饭刷手机，一回家就刷手机，得空就刷手机，衣服不堆到山一样不洗，泡的鞋子三天了才想起来刷，做完饭吃完就玩手机不刷锅…似乎一切事情都要排在玩手机之后，然而手机怎么也玩不够</p><p>周末要么睡到中午然后起来玩玩游戏，要么早早就睡醒了躺床上刷手机刷到中午然后起来玩游戏…制定好的学习计划拖了又拖，似乎所有的计划不是为了执行，而单单只是为了制定它。其实空闲时间很多，但是…但是什么但是，又想找什么借口！</p><p>不知何时起，脾气越来越差，对待一些人总是没有一点耐心。心里明白，有时候就是难以抑制。曾几何时，我一直认为我是一个很有耐心的人，似乎我的耐心只对某些特殊的人…甚至于对待自己的亲人，自己的父母，往往几句话之后可能语气里就充满了不耐.几年了，始终想不明白为什么会这样…</p><p>不知这样的变化只发生在我一个人身上，还是大家普遍现象，科技改变了我们的生活，似乎不仅仅是改变了我们的生活…</p>]]></content>
@@ -47,7 +69,7 @@
     <entry>
       <title>利用hexo和github搭建自己的私人博客</title>
       <link href="/2018/03/08/first-article/"/>
-      <content type="html"><![CDATA[<p>想搭建自己的博客已经很久了，前段时间一个面试官问我，工作了也两三年了，有没有自己总结一下，写点什么…忽然才想起来，自己一直匆匆赶路，从没有停下来好好想过，昨天正好看到一片文章分享的通过hexo 和 github 搭建自己的博客 ， 看起来挺简单的 ，于是…说没时间都是借口。</p><a id="more"></a><p>忙了一天终于把这个博客搭好了，各项配置也都配置的差不多了，以后要多写写东西了，不能总拿没时间当借口吧！<br>实践还是解决问题的唯一途径啊，本以为最少也要十天半个月呢，没想到这么快完成了，不但省了一大笔购买服务器的费用，甚至连域名的费用都省了，真是一举多得</p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="noopener">参考一</a>{:target=”_blank”}<br><a href="https://www.jianshu.com/p/502765617b74" target="_blank" rel="noopener">参考二</a>{:target=”_blank”}<br><a href="https://github.com/MOxFIVE/hexo-theme-yelee" target="_blank" rel="noopener">yelee主题设置</a>{:target=”_blank”} </p>]]></content>
+      <content type="html"><![CDATA[<p>想搭建自己的博客已经很久了，前段时间一个面试官问我，工作了也两三年了，有没有自己总结一下，写点什么…忽然才想起来，自己一直匆匆赶路，从没有停下来好好想过，昨天正好看到一片文章分享的通过hexo 和 github 搭建自己的博客 ， 看起来挺简单的 ，于是…说没时间都是借口。</p><a id="more"></a><p>忙了一天终于把这个博客搭好了，各项配置也都配置的差不多了，以后要多写写东西了，不能总拿没时间当借口吧！<br>实践还是解决问题的唯一途径啊，本以为最少也要十天半个月呢，没想到这么快完成了，不但省了一大笔购买服务器的费用，甚至连域名的费用都省了，真是一举多得</p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h3><p><a href="https://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="noopener">参考一</a><br><a href="https://www.jianshu.com/p/502765617b74" target="_blank" rel="noopener">参考二</a><br><a href="https://github.com/MOxFIVE/hexo-theme-yelee" target="_blank" rel="noopener">yelee主题设置</a></p>]]></content>
       
       <categories>
           
